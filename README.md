@@ -4,7 +4,7 @@
 
 ---
 
-### 💻 Languages and Tools:
+### Languages and Tools:
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
@@ -27,9 +27,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats:
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohi1038&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohi1038&theme=radical" width="48%" />
@@ -39,4 +36,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohi1038&layout=compact&theme=radical" width="60%" />
 </p>
 
----
