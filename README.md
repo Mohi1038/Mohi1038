@@ -137,17 +137,7 @@
 
 ---
 
-## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mohi1038/Mohi1038/output/github-snake-dark.svg?v=20260307" alt="snake animation"/>
-</p>
-
----
-
-## 💻 Live Coding
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Distributed+Systems...;Designing+Scalable+Applications...;Exploring+Cloud+Infrastructure...;Writing+Clean+and+Efficient+Code..."/>
 </p>
 
