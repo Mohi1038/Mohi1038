@@ -140,7 +140,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mohi1038/Mohi1038/output/github-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Mohi1038/Mohi1038/output/github-snake-dark.svg?v=20260307" alt="snake animation"/>
 </p>
 
 ---
