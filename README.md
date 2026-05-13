@@ -127,15 +127,13 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohi1038&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohi1038&theme=radical" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohi1038&layout=compact&theme=radical" width="60%" />
-</p>
 
 ---
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohi1038&theme=github-compact)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mohi1038/Mohi1038/output/github-snake-dark.svg?v=20260307" alt="snake animation"/>
