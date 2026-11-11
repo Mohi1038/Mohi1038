@@ -13,7 +13,8 @@
   <!-- Cloud & DevOps -->
   <tr>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/amazonaws/FF9900"
+     alt="AWS" width="60" height="60"/>
       <br>AWS
     </td>
     <td align="center" width="96">
