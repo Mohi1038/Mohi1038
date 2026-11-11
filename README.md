@@ -13,8 +13,7 @@
   <!-- Cloud & DevOps -->
   <tr>
     <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/amazonaws/FF9900"
-     alt="AWS" width="60" height="60"/>
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="60" height="60"/>
       <br>AWS
     </td>
     <td align="center" width="96">
@@ -139,4 +138,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mohi1038/Mohi1038/output/github-snake-dark.svg?v=20260307" alt="snake animation"/>
 </p>
-
