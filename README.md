@@ -13,7 +13,7 @@
   <!-- Cloud & DevOps -->
   <tr>
     <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="60" height="60"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="Amazon Web Services" width="60" height="60"/>
       <br>AWS
     </td>
     <td align="center" width="96">
